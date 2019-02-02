@@ -13,6 +13,6 @@ Find here all the BitsPlease Seminar PPTs.
   <td>2<sup>nd</sup> Feburary 2019</td>
  <td>Introduction to Python</td>
  <td>Pranav Khurana</td>
-  <td><a href="-">-</a></td>
+  <td><a href="https://slides.com/pranavkhurana/deck">Introduction to Python</a></td>
 </tr>
 </table>
