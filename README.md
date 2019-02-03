@@ -1,5 +1,5 @@
 # BitsPlease Seminars
-Find here all the **BitsPlease** Seminar Event Slides for future refernece.
+Find here all the **BitsPlease** Seminar Event Slides for future reference.
 
 <table>
 
@@ -10,7 +10,7 @@ Find here all the **BitsPlease** Seminar Event Slides for future refernece.
  <th scope="col">Link</th>
 </tr>
 <tr>
-  <td>2<sup>nd</sup> Feburary 2019</td>
+  <td>2<sup>nd</sup> February 2019</td>
  <td>Introduction to Python</td>
  <td><a href="https://github.com/Pranav-Khurana">Pranav Khurana</a></td>
   <td><a href="https://slides.com/pranavkhurana/deck">Introduction to Python</a></td>
