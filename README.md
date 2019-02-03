@@ -1,5 +1,5 @@
-# seminar-ppts
-Find here all the BitsPlease Seminar PPTs.
+# BitsPlease Seminars
+Find here all the **BitsPlease** Seminar Event Slides for future refernece.
 
 <table>
 
@@ -12,7 +12,7 @@ Find here all the BitsPlease Seminar PPTs.
 <tr>
   <td>2<sup>nd</sup> Feburary 2019</td>
  <td>Introduction to Python</td>
- <td>Pranav Khurana</td>
+ <td><a href="https://github.com/Pranav-Khurana">Pranav Khurana</a></td>
   <td><a href="https://slides.com/pranavkhurana/deck">Introduction to Python</a></td>
 </tr>
 </table>
