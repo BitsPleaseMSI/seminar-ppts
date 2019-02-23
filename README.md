@@ -11,13 +11,13 @@ Find here all the **BitsPlease** Seminar Event Slides for future reference.
 </tr>
 <tr>
   <td>2<sup>nd</sup> February 2019</td>
-  <td>PyTalk 1 : Introduction to Python</td>
+  <td><b>PyTalk 1</b> : Introduction to Python</td>
   <td><a href="https://github.com/Pranav-Khurana">Pranav Khurana</a></td>
   <td><a href="https://slides.com/pranavkhurana/deck">Introduction to Python</a></td>
 </tr>
 <tr>
-  <td>23<sup>nd</sup> February 2019</td>
-  <td>PyTalk 2 : OOPs with Python</td>
+  <td>23<sup>rd</sup> February 2019</td>
+  <td><b>PyTalk 2</b> : OOPs with Python</td>
   <td><a href="https://dribbble.com/Vipin_27">Vipin Kumar</a></td>
   <td><a href="https://slides.com/vipin27/oops_with_python/#/">OOPs with Python</a></td>
 </tr>
