@@ -22,7 +22,7 @@ Find here all the **BitsPlease** Seminar Event Slides for future reference.
   <td><a href="https://slides.com/vipin27/oops_with_python/#/">OOPs with Python</a></td>
 </tr>
 <tr>
-  <td>23<sup>rd</sup> February 2019</td>
+  <td>2<sup>nd</sup> March 2019</td>
   <td><b>CODE 101</b> : Algorithmic Analysis</td>
   <td><a href="https://github.com/Animesh-Ghosh">Animesh Ghosh</a></td>
   <td><a href="https://slides.com/animeshghosh/algorithmic_analysis/fullscreen#/">Algorithmic Analysis</a></td>
